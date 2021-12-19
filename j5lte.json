@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": 1633665600,
+      "filename": "lineage_j5lte-ota-eng.daviiid99.zip",
+      "id": "000000",
+      "romtype": "unofficial",
+      "size": 787480576,
+      "url": "https://github.com/daviiid99/J5-OTA-Updates/releases/download/OTA/lineage_j5lte-ota-eng.daviiid99.zip",
+      "version": "19.0"
+    }    
+  ]
+}
