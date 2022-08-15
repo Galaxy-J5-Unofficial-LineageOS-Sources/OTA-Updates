@@ -1,6 +1,5 @@
 {
-  "response": [
-    {
+  "response": {
       "datetime": 1660255200,
       "filename": "lineage_R_j5nlte-ota-eng.daviiid99.zip",
       "id": "000000",
@@ -9,5 +8,4 @@
       "url": "https://github.com/Galaxy-J5-Unofficial-LineageOS-Sources/OTA-Updates/releases/download/OTA/lineage_R_j5nlte-ota-eng.daviiid99.zip",
       "version": "18.1"
     }    
-  ]
 }
