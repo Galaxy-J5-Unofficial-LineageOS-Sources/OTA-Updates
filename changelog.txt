@@ -1,1 +1,7 @@
-
+AOSP Security Patch Level of 2022-08-05.
+Provide GApps and Vanilla variants.
+Disable navbar.
+Screen timeout is now set to 30 minutes by default.
+Use of LineageOS Touch HAL, deprecate KeysDisabler.
+Upgrade SAMSUNG proprietary firmware from j8y18lte.
+Restore Lawnchair support and upgrade it to latest dev build.
