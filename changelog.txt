@@ -1,1 +1,5 @@
-
+AOSP Security Patch Level of 2022-08-05
+Add support for j5 2016 devices
+Upgrade Lawnchair to latest dev
+Restore Radio FM2 support on aosp
+Upgrade widevine level to latest for Android R (v1.3)
