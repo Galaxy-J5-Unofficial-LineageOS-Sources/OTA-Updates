@@ -1,1 +1,3 @@
-This is just a template for now
+Initial release
+AOSP Security Patch Level of 2022-09-05
+First Android 13 build for the Galaxy J5 devices
