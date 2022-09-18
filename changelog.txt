@@ -1,3 +1,6 @@
-Initial release
-AOSP Security Patch Level of 2022-09-05
-First Android 13 build for the Galaxy J5 devices
+android-13.0-r6 tag
+Fixed WiFi
+Fixed hotspot
+Fixed widevine/drm clearkey
+Restore FM2 Radio support
+Fixed RIL(calls, mobile data, sms)
