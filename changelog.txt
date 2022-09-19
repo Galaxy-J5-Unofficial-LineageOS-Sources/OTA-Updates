@@ -1,6 +1,4 @@
-android-13.0-r6 tag
-Fixed WiFi
-Fixed hotspot
-Fixed widevine/drm clearkey
-Restore FM2 Radio support
-Fixed RIL(calls, mobile data, sms)
+- Fixed Camera
+- Fixed Torch
+- Synced LineageOS sources and restore some lineage features
+- Removed GApps
