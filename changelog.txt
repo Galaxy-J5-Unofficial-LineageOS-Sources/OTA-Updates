@@ -1,4 +1,7 @@
-- Fixed Camera
-- Fixed Torch
-- Synced LineageOS sources and restore some lineage features
-- Removed GApps
+- Fixed LineageOS setup, userdata backup is no longer needed
+- Fixed an issue where uninstalling an app
+- Address tons of camera and FM radio denials
+- Restore Camera functionality for taking photos
+- Kang new DRM Widevine 1.4 blobs
+- Fixed network for GApps and third party
+- Jely browser is now replaced by Bromite
