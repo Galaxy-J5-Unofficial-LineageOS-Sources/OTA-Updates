@@ -1,5 +1,5 @@
-- Include ColorPicker (Monet)
-- ZRAM is now set to 2GB by default
-- Switch to AIDL DRM Clearkey
-- Switch to Sensors MultiHAL
-- Stability improvements as always
+[new] Include ColorPicker (Monet)
+[fix] ZRAM is now set to 2GB by default
+[new Switch to AIDL DRM Clearkey
+[new] Switch to Sensors MultiHAL
+[fix] Stability improvements as always
